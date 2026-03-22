@@ -1,0 +1,12 @@
+# Variables in C
+
+- Variables are used to store data.
+- Each variable has a name and type.
+
+## Example:
+int a = 10;
+
+## Rules for naming variables:
+- Must start with a letter or underscore
+- Cannot use keywords
+- No spaces allowed
