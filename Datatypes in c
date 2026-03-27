@@ -1,0 +1,14 @@
+# Data Types in C
+
+Data types define the type of data a variable can store.
+
+## Types of Data Types:
+- int (integer)
+- float (decimal numbers)
+- char (single character)
+- double (large decimal numbers)
+
+## Example:
+int a = 5;
+float b = 3.5;
+char c = 'A';
