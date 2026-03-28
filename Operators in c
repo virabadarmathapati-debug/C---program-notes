@@ -1,0 +1,11 @@
+# Operators in C
+
+Operators are used to perform operations on variables.
+
+## Types of Operators:
+- Arithmetic (+, -, *, /, %)
+- Relational (==, !=, >, <)
+- Logical (&&, ||, !)
+
+## Example:
+int a = 5 + 3;
