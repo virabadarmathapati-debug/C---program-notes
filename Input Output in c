@@ -1,0 +1,8 @@
+# Input and Output in C
+
+- Input is taken using scanf()
+- Output is displayed using printf()
+
+## Example:
+printf("Hello");
+scanf("%d", &a);
