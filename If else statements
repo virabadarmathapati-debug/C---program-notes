@@ -1,0 +1,16 @@
+# If-Else Statement
+
+- Used for decision making.
+
+## Syntax:
+if(condition) {
+    // code
+} else {
+    // code
+}
+
+## Example:
+if(a > 10)
+    printf("Greater");
+else
+    printf("Smaller");
