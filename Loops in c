@@ -1,0 +1,13 @@
+# Loops in C
+
+Loops are used to repeat a block of code.
+
+## Types of Loops:
+- for loop
+- while loop
+- do-while loop
+
+## Example:
+for(int i = 0; i < 5; i++) {
+    printf("%d", i);
+}
