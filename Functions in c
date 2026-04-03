@@ -1,0 +1,13 @@
+# Functions in C
+
+- A function is a block of code that performs a specific task.
+- It helps in code reusability.
+
+## Types of Functions:
+- Library functions (printf, scanf)
+- User-defined functions
+
+## Example:
+int add(int a, int b) {
+    return a + b;
+}
