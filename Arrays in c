@@ -1,0 +1,11 @@
+# Arrays in C
+
+- Arrays are used to store multiple values in a single variable.
+- All elements must be of same data type.
+
+## Example:
+int arr[5] = {1, 2, 3, 4, 5};
+
+## Advantages:
+- Easy to store multiple values
+- Access using index
