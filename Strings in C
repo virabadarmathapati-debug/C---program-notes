@@ -1,0 +1,11 @@
+# Strings in C
+
+- A string is a collection of characters ending with '\0'.
+
+## Example:
+char name[] = "Hello";
+
+## Common Functions:
+- strlen()
+- strcpy()
+- strcmp()
