@@ -1,0 +1,11 @@
+# Pointers in C
+
+- Pointer is a variable that stores address of another variable.
+
+## Example:
+int a = 10;
+int *p = &a;
+
+## Symbols:
+- & (address of)
+- * (value at address)
